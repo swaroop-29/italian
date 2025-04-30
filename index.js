@@ -45,7 +45,7 @@ switch(key)
 						tom4.play();
 						break;
 		case "j":
-				var snare=new Audio("sounds/dindin.mp3");
+				var snare=new Audio("sounds/tuntun.mp3");
 				snare.play();
 						break;
 		case "k":
@@ -54,7 +54,7 @@ switch(key)
 						break;
 
 		case "l":
-			var kick=new Audio("sounds/tuntun.mp3");
+			var kick=new Audio("sounds/tripi.mp3");
 						kick.play();
 						break;
 		default: console.log(buttonInnerHtml);
